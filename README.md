@@ -1,10 +1,6 @@
 # Netflix-Genre-Prediction
 Predicting Netflix show genres using machine learning models (Logistic Regression, Decision Trees)
 
-# Netflix Genre Prediction 🎬
-
-This project predicts the main genre of Netflix shows and movies based on features like type, country, rating, release year, and duration.
-
 ## Dataset
 - Netflix Titles Dataset (8,000+ entries)
 - [Source: Kaggle Netflix Titles Dataset](https://www.kaggle.com/shivamb/netflix-shows)
